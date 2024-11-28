@@ -1,0 +1,11 @@
+poodle
+labrador
+retriever
+shepherd
+terrier
+bulldog
+chihuahua
+beagle
+spaniel
+dachshund
+german shepherd
